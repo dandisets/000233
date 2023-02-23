@@ -47,7 +47,7 @@ assetsSummary:
   - LFP
   - ElectrodeGroup
 citation: Tingley, David; McClain, Kathryn; Kaya, Ekin; Carpenter, Jordan; Buzsáki,
-  György (2022) A metabolic function of the hippocampal sharp wave-ripple (Version
+  György (2023) A metabolic function of the hippocampal sharp wave-ripple (Version
   draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000233/draft
 contributor:
 - affiliation:
@@ -111,6 +111,7 @@ contributor:
   schemaKey: Organization
   url: https://www.nih.gov/
 dateCreated: '2022-04-15T01:15:44.204424+00:00'
+datePublished: '2023-02-23T08:15:22.880501+00:00'
 description: The hippocampus has previously been implicated in both cognitive and
   endocrine functions. We simultaneously measured electrophysiological activity from
   the hippocampus and interstitial glucose concentrations in the body of freely behaving
@@ -138,6 +139,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000233/versions/draft/assets/
 name: A metabolic function of the hippocampal sharp wave-ripple
 protocol: []
+publishedBy:
+  endDate: '2023-02-23T08:15:22.880501+00:00'
+  id: urn:uuid:ca89e51d-8ce6-491e-99f8-6bd54d375690
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2023-02-23T08:15:22.880501+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:b7cacd90-1357-4bf1-8777-e85690f53341
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: https://doi.org/10.1038/s41586-021-03811-w
   name: A metabolic function of the hippocampal sharp wave-ripple
