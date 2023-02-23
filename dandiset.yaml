@@ -48,7 +48,7 @@ assetsSummary:
   - ElectrodeGroup
 citation: Tingley, David; McClain, Kathryn; Kaya, Ekin; Carpenter, Jordan; Buzsáki,
   György (2023) A metabolic function of the hippocampal sharp wave-ripple (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000233/draft
+  0.230223.0815) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000233/0.230223.0815
 contributor:
 - affiliation:
   - identifier: https://ror.org/0190ak572
@@ -126,8 +126,9 @@ description: The hippocampus has previously been implicated in both cognitive an
   demonstrate that a function of the sharp wave-ripple is to modulate peripheral glucose
   homeostasis, and offer a mechanism for the link between sleep disruption and blood
   glucose dysregulation in type 2 diabetes.
+doi: 10.48324/dandi.000233/0.230223.0815
 ethicsApproval: []
-id: DANDI:000233/draft
+id: DANDI:000233/0.230223.0815
 identifier: DANDI:000233
 keywords:
 - glucose
@@ -136,7 +137,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000233/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000233/0.230223.0815/assets.yaml
 name: A metabolic function of the hippocampal sharp wave-ripple
 protocol: []
 publishedBy:
@@ -162,6 +163,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.2
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000233/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000233/0.230223.0815
+version: 0.230223.0815
 wasGeneratedBy: []
