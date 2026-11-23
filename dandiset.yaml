@@ -26,16 +26,16 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique:
-  - name: multi electrode extracellular electrophysiology recording technique
-    schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  - name: signal filtering technique
+  - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
   - name: surgical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 11508204522736
-  numberOfFiles: 311
+  - name: signal filtering technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 11672684229729
+  numberOfFiles: 304
   numberOfSubjects: 25
   schemaKey: AssetsSummary
   species:
@@ -43,10 +43,10 @@ assetsSummary:
     name: Rattus norvegicus - Norway rat
     schemaKey: SpeciesType
   variableMeasured:
-  - ElectricalSeries
-  - ProcessingModule
   - LFP
   - ElectrodeGroup
+  - ProcessingModule
+  - ElectricalSeries
 citation: Tingley, David; McClain, Kathryn; Kaya, Ekin; Carpenter, Jordan; Buzsáki,
   György (2026) A metabolic function of the hippocampal sharp wave-ripple (Version
   draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000233/draft
